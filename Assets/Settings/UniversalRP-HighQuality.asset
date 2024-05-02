@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
   m_Name: UniversalRP-HighQuality
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   k_AssetVersion: 11
   k_AssetPreviousVersion: 11
+=======
+  k_AssetVersion: 9
+  k_AssetPreviousVersion: 9
+>>>>>>> 591d2006a546d95afd8c211e91a9ab12f86c704e
   m_RendererType: 1
   m_RendererData: {fileID: 0}
   m_RendererDataList:
@@ -23,6 +28,7 @@ MonoBehaviour:
   m_RequireOpaqueTexture: 0
   m_OpaqueDownsampling: 1
   m_SupportsTerrainHoles: 1
+  m_StoreActionsOptimization: 0
   m_SupportsHDR: 1
   m_HDRColorBufferPrecision: 0
   m_MSAA: 4
@@ -30,9 +36,12 @@ MonoBehaviour:
   m_UpscalingFilter: 0
   m_FsrOverrideSharpness: 0
   m_FsrSharpness: 0.92
+<<<<<<< HEAD
   m_EnableLODCrossFade: 1
   m_LODCrossFadeDitheringType: 1
   m_ShEvalMode: 0
+=======
+>>>>>>> 591d2006a546d95afd8c211e91a9ab12f86c704e
   m_MainLightRenderingMode: 1
   m_MainLightShadowsSupported: 1
   m_MainLightShadowmapResolution: 2048
@@ -57,13 +66,19 @@ MonoBehaviour:
   m_SoftShadowsSupported: 1
   m_ConservativeEnclosingSphere: 0
   m_NumIterationsEnclosingSphere: 64
+<<<<<<< HEAD
   m_SoftShadowQuality: 2
+=======
+>>>>>>> 591d2006a546d95afd8c211e91a9ab12f86c704e
   m_AdditionalLightsCookieResolution: 2048
   m_AdditionalLightsCookieFormat: 3
   m_UseSRPBatcher: 1
   m_SupportsDynamicBatching: 0
   m_MixedLightingSupported: 1
+<<<<<<< HEAD
   m_SupportsLightCookies: 1
+=======
+>>>>>>> 591d2006a546d95afd8c211e91a9ab12f86c704e
   m_SupportsLightLayers: 0
   m_DebugLevel: 0
   m_StoreActionsOptimization: 0
@@ -72,7 +87,10 @@ MonoBehaviour:
   m_ColorGradingMode: 0
   m_ColorGradingLutSize: 32
   m_UseFastSRGBLinearConversion: 0
+<<<<<<< HEAD
   m_SupportDataDrivenLensFlare: 1
+=======
+>>>>>>> 591d2006a546d95afd8c211e91a9ab12f86c704e
   m_ShadowType: 1
   m_LocalShadowsSupported: 0
   m_LocalShadowsAtlasResolution: 256
@@ -111,4 +129,5 @@ MonoBehaviour:
   m_PrefilterScreenCoord: 0
   m_PrefilterNativeRenderPass: 0
   m_ShaderVariantLogLevel: 0
+  m_VolumeFrameworkUpdateMode: 0
   m_ShadowCascades: 1
